@@ -2,7 +2,7 @@
   "name": "circleci-javascript-example",
   "license": "MIT",
   "scripts": {
-    "test":"jest"
+    "test":"TZ='Asia/Tokyo' jest"
   },
   "devDependencies": {
     "jest": "^27.4.7"
